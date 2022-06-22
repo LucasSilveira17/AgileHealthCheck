@@ -4,14 +4,11 @@
 .selectOption{
   position: relative; top: -800px; left: 450px; margin-left:0; margin-right:0;
 }
-.colunas {
-  position: relative; top: -10px; left: 500px; margin-left:0; margin-right:0;
-}
 .colunas2 {
-  position: relative; top: -68px; left: 960px; margin-left:0; margin-right:0;
+  position: relative; top: -110px; left: 700px; margin-left:0; margin-right:0;
 }
 .colunas3 {
-  position: relative; top: -130px; left: 0px; margin-left:0; margin-right:0;
+  position: relative; top: -165px; left: 1200px; margin-left:0; margin-right:0;
 }
 .linha-vertical {
   height: 500px;/*Altura da linha*/
@@ -131,5 +128,8 @@ right {
 }
 .select11{
   position: relative; top: -260px; left: 495px; margin-left:0; margin-right:0;
+}
+.saveProject{
+  position: relative; top: -450px; left: 1300px; margin-left:0; margin-right:0;
 }
 

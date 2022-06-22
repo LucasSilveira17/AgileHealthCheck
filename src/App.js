@@ -1,6 +1,9 @@
 import React from 'react'
 import './App.css';
 <script src="index.js"></script>
+import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.3/firebase-app.js";
+import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.8.3/firebase-analytics.js";
+
 
 const InternalSupport = (props) => {
   return(
@@ -55,7 +58,7 @@ function App() {
    <InternalSupport team="8"/>
    <InternalSupport team="9"/>
    <InternalSupport team="10"/>
-   <div className='select'> <label for="select">Choose color:</label>
+   <div className='select' id="save"> <label for="select">Choose color:</label>
     <select>
         <option>Choose Color</option>
         <option value="red">Red</option>
@@ -297,14 +300,10 @@ function App() {
 <div class="arrow down"></div>
 <div class="arrow left"></div>
 </div>
+<button class="saveProject" onClick="saveChoice()">Save</button>
 </div>
 
 )}
-
-
-  
-
-  
 
 
     export default App;
