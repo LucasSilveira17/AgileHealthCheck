@@ -1,0 +1,83 @@
+.Team {
+    position:relative; top:0px; left:00px; margin-left:0px; margin-right:0px;
+  }
+  .colunas2 {
+    position: relative; top: -110px; left: 700px; margin-left:0; margin-right:0;
+  }
+  .colunas3 {
+    position: relative; top: -165px; left: 1200px; margin-left:0; margin-right:0;
+  }
+  .linha-vertical {
+    height: 500px;/*Altura da linha*/
+    border-left: 2px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  }
+  .Arrow{
+    position: relative; top: -1000px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow2{
+    position: relative;  top: -930px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow3{
+    position: relative; top: -850px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow4{
+    position: relative; top: -785px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow5{
+    position: relative; top: -720px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow6{
+    position: relative; top: -660px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow7{
+    position: relative; top: -595px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow8{
+    position: relative;  top: -515px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow9{
+    position: relative; top: -1250px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .Arrow10{
+    position: relative; top: -480px; left: 960px; margin-left:0; margin-right:0;
+  }
+  .select{
+    position: relative; top: -800px; left: 450px; margin-left:0; margin-right:0;
+  }
+  
+  .select{
+    position: relative; top: -850px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select2{
+    position: relative; top: -865px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select3{
+    position: relative; top: -800px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select4{
+    position: relative; top: -730px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select5{
+    position: relative; top: -650px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select6{
+    position: relative; top: -590px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select7{
+    position: relative; top: -530px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select8{
+    position: relative; top: -460px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select9{
+    position: relative; top: -390px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select10{
+    position: relative; top: -330px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .select11{
+    position: relative; top: -260px; left: 495px; margin-left:0; margin-right:0;
+  }
+  .saveProject{
+    position: relative; top: -450px; left: 1300px; margin-left:0; margin-right:0;
+  }
